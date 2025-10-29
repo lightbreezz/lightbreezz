@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @lightbreezz. Let's be friends!.  
+- 👋 Hi, I’m @lightbreezz. Let's be friends! 
 - 😄 I’m interested in AI, Operating Systems, and Vector Database.  
 - 🌱 I’m an undergraduate at HITSZ.  
-- 📫 Building connections, fueled by code and curiosity！
+- 📫 Building connections, fueled by code and curiosity!
 <!--
 **lightbreezz/lightbreezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
